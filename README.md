@@ -1,5 +1,4 @@
-# PROYECTO-INVENTARIO-SIGMA
-# IDEA PRESENTADA: 
+## PROYECTO-INVENTARIO-SIGMA
 # ALCANCE
   El proyecto tiene como objetivo optimizar la información y evitar la obsolescencia, definir las especificaciones funcionales, no funcionales de desarrollo del sistema 
 # Objetivos Específicos:
