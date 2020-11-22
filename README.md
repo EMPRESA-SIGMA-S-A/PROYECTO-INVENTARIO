@@ -7,4 +7,4 @@
 •	Implementar la misma arquitectura planteada en el ambiente no productivo, productivo.
 •	Identificar a los proveedores de la empresa SolverPrint e integrar información y seguimiento de su distribución.
 # Planificacion de documentos en TRELLO
-#
+
