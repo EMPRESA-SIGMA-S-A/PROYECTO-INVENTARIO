@@ -1,5 +1,5 @@
-## PROYECTO-INVENTARIO-SIGMA
-# ALCANCE
+# PROYECTO-INVENTARIO-SIGMA
+## ALCANCE
   El proyecto tiene como objetivo optimizar la información y evitar la obsolescencia, definir las especificaciones funcionales, no funcionales de desarrollo del sistema 
 # Objetivos Específicos:
 •	Migrar la información de un documento plano hacia la aplicación de inventario a desarrollar con versión 1.0
