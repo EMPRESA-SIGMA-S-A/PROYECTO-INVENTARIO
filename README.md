@@ -7,7 +7,7 @@ Implementar la misma arquitectura planteada en el ambiente no productivo, produc
 Identificar a los proveedores de la empresa SolverPrint e integrar información y seguimiento de su distribución.
 
 ## Estimacion
-## Planiicacion en Trello
+## Planicación en Trello
 ![Cronograma Trello](https://1.bp.blogspot.com/-D5Qc_-UTPBM/X7rbwYN9VrI/AAAAAAAAZ9M/4E5DC1F08DQ0ny8hlRbyeseW-8DGNsRgwCLcBGAsYHQ/s1366/trello.JPG)
 ## Planificacion de Project
 
