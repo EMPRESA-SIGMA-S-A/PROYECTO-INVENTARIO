@@ -9,8 +9,8 @@ Identificar a los proveedores de la empresa SolverPrint e integrar información 
 ## Estimacion
 ![Estimacion de costo](https://1.bp.blogspot.com/-UEwaQCuZp-w/X7rdt4YWUUI/AAAAAAAAZ9Y/y7B2oTTSFL84XfXC4AAt317zLeua-NkgACLcBGAsYHQ/s625/puntofuncion.JPG)
 
-Total esfuerzo aproximado : 186 horas/hombre
-TOTAL ESFUERZO DE LA INICIATIVA : $5836 (Inc. IVA)
+Total esfuerzo aproximado : 744 horas/hombre
+TOTAL ESFUERZO DE LA INICIATIVA : $6836 (Inc. IVA)
 
 ## Planicación en Trello
 ![Cronograma Trello](https://1.bp.blogspot.com/-itKnur9CneQ/X8F8U2VtNWI/AAAAAAAAZ-A/FChlkvQe-TQ9jWlYCIPVD8iJVK4DfNkZwCLcBGAsYHQ/s1362/Imatrello.JPG)
