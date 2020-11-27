@@ -15,6 +15,7 @@ TOTAL ESFUERZO DE LA INICIATIVA : $6836 (Inc. IVA)
 ## Planicación en Trello
 ![Cronograma Trello](https://1.bp.blogspot.com/-itKnur9CneQ/X8F8U2VtNWI/AAAAAAAAZ-A/FChlkvQe-TQ9jWlYCIPVD8iJVK4DfNkZwCLcBGAsYHQ/s1362/Imatrello.JPG)
 ## Planificacion de Project
+![Project](https://1.bp.blogspot.com/-PGlVhNZD0Iw/X8GA6b-BOeI/AAAAAAAAZ-U/MlPDxhd0EOcMgyedlet465HCOodvS6qnwCLcBGAsYHQ/s978/ImaSoft.JPG)
 
 
 
