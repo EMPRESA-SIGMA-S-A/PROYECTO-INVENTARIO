@@ -7,7 +7,7 @@ Implementar la misma arquitectura planteada en el ambiente no productivo, produc
 Identificar a los proveedores de la empresa SolverPrint e integrar información y seguimiento de su distribución.
 
 ## Estimacion
-![Estimacion de costo](https://1.bp.blogspot.com/-UEwaQCuZp-w/X7rdt4YWUUI/AAAAAAAAZ9Y/y7B2oTTSFL84XfXC4AAt317zLeua-NkgACLcBGAsYHQ/s625/puntofuncion.JPG)
+![Estimacion de costo](https://1.bp.blogspot.com/-O5terW65wSs/X8F9Kclb5rI/AAAAAAAAZ-I/GlCZnzQ0_hYCfBv75Jj2kTDYdxZ22viXACLcBGAsYHQ/s502/ipa.JPG)
 
 Total esfuerzo aproximado : 744 horas/hombre
 TOTAL ESFUERZO DE LA INICIATIVA : $6836 (Inc. IVA)
